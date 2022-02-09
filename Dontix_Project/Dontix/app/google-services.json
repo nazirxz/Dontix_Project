@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662684751278",
+    "firebase_url": "https://dontixproject-ccc9e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dontixproject-ccc9e",
+    "storage_bucket": "dontixproject-ccc9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662684751278:android:c8d8bbfa595a248bf8643f",
+        "android_client_info": {
+          "package_name": "com.project.dontix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662684751278-v59d4fognqtqp9vl36iplnldu4n9h5ie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaiFUXujnwx3olP11RHN0mtBPxiL3Sees"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662684751278-v59d4fognqtqp9vl36iplnldu4n9h5ie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
