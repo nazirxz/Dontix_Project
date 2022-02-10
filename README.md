@@ -1,6 +1,6 @@
 # Dontix_Project
 For my pcr fellas
 
-# How to install 
-1. First, Connect to firebase in android studio
-2. then, Have a good presentation 
+# How to install with ur own database
+1. First delete the google-services.json in app/ur project
+2. Then, connect to ur firebase 
